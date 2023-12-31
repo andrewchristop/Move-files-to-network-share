@@ -6,7 +6,7 @@ To use this script, either direct-download, clone the repo, or run `curl https:/
 
 Then modify all instances of `UNCPATH\share` with the Universal Naming Convention (UNC) path of the network share
 
-After that modify modify `E:\filename` with current location of the local directory
+After that modify `E:\filename` with current location of the local directory
 
 TIP: Use task scheduler to run the script on desired intervals
 
