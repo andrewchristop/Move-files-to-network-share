@@ -1,6 +1,6 @@
 # Batch Backup Script
 
-This backup script creates directories on a network share based on system time and date and moves daily backup files to the newly created directory
+This script creates directories on a network share based on system time and date and moves daily backup files to the newly created directory
 
 To use this script, either direct-download, clone the repo, or run `curl https://raw.githubusercontent.com/andrewchristop/batch-backup-script/main/server.bat -o server.bat`
 
